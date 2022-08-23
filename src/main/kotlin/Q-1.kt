@@ -6,7 +6,7 @@ fun main()
     println("$z")
     var y='R'
     println("$y")
-    var a="Raj"
+    var a="Jay"
     println("$a")
     var b=true
     println("$b")
